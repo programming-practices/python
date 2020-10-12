@@ -1,0 +1,5 @@
+Estupendo dia para estudiar Python. 
+Siguente linea escrita en el archivo
+La tresera linea escrita desde Python!!!
+La treera linea escrita desde Python!!!
+La trecera linea escrita desde Python!!!
